@@ -1,4 +1,6 @@
-# Project Objective
+# Fan Controller System
+
+## Project Objective
 
 The objective of this project is to design a temperature-controlled fan system using an ATmega32 microcontroller and an LM35 temperature sensor. The system will monitor the temperature and adjust the fan speed accordingly, displaying both the temperature and fan state on an LCD.
 
